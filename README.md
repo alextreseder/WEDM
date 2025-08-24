@@ -6,6 +6,8 @@ Minimalist DIY Wire EDM for Hobbyists & Education. Designed with high accuracy a
 
 [**Pico Makes First Cut!**](https://youtube.com/shorts/JkDtk-GV0A8)
 
+![Lighning Bug](https://github.com/alextreseder/WEDM/blob/master/Images/Lightning%20Bug%20rev3%20iso.PNG)
+
 ![Render Cover](https://github.com/alextreseder/picoEDM/blob/master/Images/pico5_render_cover.png)
 
 ## Concept
