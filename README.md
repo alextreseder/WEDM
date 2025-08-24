@@ -1,4 +1,4 @@
-# PicoEDM
+# WEDM
 
 Minimalist DIY Wire EDM for Hobbyists & Education. Designed with high accuracy and user experience in mind.
 
